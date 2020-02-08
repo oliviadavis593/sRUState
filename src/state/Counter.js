@@ -78,3 +78,6 @@ handleButtonClick = () => {
 //Takeway:
 // When adding an event listenr function to a React class - use an arrow function
 //...to make sure that this is reffering to the class instance
+//Now the this bug is taken care of from the original TypeError we we're getting
+
+//Counter.js ===> CounterTwoUpdating.js (updating the count etc.)
